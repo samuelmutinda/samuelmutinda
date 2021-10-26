@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @samuelmutinda
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning electrical and information engineering
+- Renewed Github Account. Projects have been transferred from the initial account
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
