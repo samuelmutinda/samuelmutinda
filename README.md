@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelmutinda
-- 👀 I’m interested in embedded systems
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development
+- 💞️ I’m looking to collaborate on open source mobile apps 
 - 📫 How to reach me ...
 
 <!---
